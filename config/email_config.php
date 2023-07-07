@@ -3,19 +3,19 @@
 $domain_name = "http://localhost/project";
 
 $g_host = "smtp.gmail.com";
-$domain_email = "mallaurybouisson06@gmail.com";
-$domain_password = "rhfzxczkwkodravr";
+$domain_email = "tonEmail@gmail.com";
+$domain_password = "tonMotDePasse";
 
 $g_secure = "tsl";
 $g_port = "587";
 
 /* 
 
--> with SSL : 
+-> avec SSL : 
 secure = ssl
 port - 465
 
--> without SSL : 
+-> sans SSL : 
 secure = tls
 port - 587
 
